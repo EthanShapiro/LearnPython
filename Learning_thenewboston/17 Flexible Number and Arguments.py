@@ -5,3 +5,4 @@ def addNumbers(*args):
     return total
 
 print(addNumbers(5, 1, 5, 6, 7, 89, 10))
+print(addNumbers())
