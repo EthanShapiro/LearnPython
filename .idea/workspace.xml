@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca051ab1-3b6c-4471-bd95-a36aeb427da0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Extra Practice/Dictionaries.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Extra Practice/Lists.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Extra Practice/Tuples.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Extra Practice/reading_writing_files.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning_thenewboston/18 Unpacking Arguments.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning_thenewboston/19 Sets.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning_thenewboston/20 Dictionary.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning_thenewboston/21 Modules.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning_thenewboston/22 Download an Image From the Web.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning_thenewboston/23_how_to_read_and_write_files.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning_thenewboston/24_downloading_files_from_the_web.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning_thenewboston/Hello World.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning_thenewboston/ModulesAtuna.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning_thenewboston/web_crawler.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning/10 Comments and Break.py" afterPath="$PROJECT_DIR$/Learning_thenewboston/10 Comments and Break.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning/11 Continue.py" afterPath="$PROJECT_DIR$/Learning_thenewboston/11 Continue.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning/12 Functions.py" afterPath="$PROJECT_DIR$/Learning_thenewboston/12 Functions.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning/13 Return Values.py" afterPath="$PROJECT_DIR$/Learning_thenewboston/13 Return Values.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning/14 Default Values for Arguments.py" afterPath="$PROJECT_DIR$/Learning_thenewboston/14 Default Values for Arguments.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning/15 Variable Scopes.py" afterPath="$PROJECT_DIR$/Learning_thenewboston/15 Variable Scopes.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning/16 Keyword Arguments.py" afterPath="$PROJECT_DIR$/Learning_thenewboston/16 Keyword Arguments.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning/17 Flexible Number and Arguments.py" afterPath="$PROJECT_DIR$/Learning_thenewboston/17 Flexible Number and Arguments.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning/9 Range and While.py" afterPath="$PROJECT_DIR$/Learning_thenewboston/9 Range and While.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Learning/Hello World.py" afterPath="$PROJECT_DIR$/Extra Practice/Iterators.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Extra Practice/custom_web_crawler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/LearnPython.iml" afterPath="$PROJECT_DIR$/.idea/LearnPython.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +20,8 @@
       <file leaf-file-name="web_crawler.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Learning_thenewboston/web_crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+            <state relative-caret-position="153">
+              <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="35" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -50,81 +29,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dictionaries.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Extra Practice/Dictionaries.py">
+      <file leaf-file-name="custom_web_crawler.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Extra Practice/custom_web_crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="340">
+              <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lists.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Extra Practice/Lists.py">
+      <file leaf-file-name="MyNewText.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Extra Practice/MyNewText.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tuples.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Extra Practice/Tuples.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reading_writing_files.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Extra Practice/reading_writing_files.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="myNewFile.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Extra Practice/myNewFile.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Iterators.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Extra Practice/Iterators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="24_downloading_files_from_the_web.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learning_thenewboston/24_downloading_files_from_the_web.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="23_how_to_read_and_write_files.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learning_thenewboston/23_how_to_read_and_write_files.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -189,6 +110,9 @@
         <option value="$PROJECT_DIR$/Extra Practice/Tuples.py" />
         <option value="$PROJECT_DIR$/Extra Practice/myNewFile.txt" />
         <option value="$PROJECT_DIR$/Extra Practice/reading_writing_files.py" />
+        <option value="$PROJECT_DIR$/Extra Practice/custom_web_cralwer.py" />
+        <option value="$PROJECT_DIR$/Extra Practice/MyNewText.txt" />
+        <option value="$PROJECT_DIR$/Extra Practice/custom_web_crawler.py" />
       </list>
     </option>
   </component>
@@ -213,7 +137,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -271,11 +194,12 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../scrapy" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -294,25 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.reading_writing_files">
-    <configuration default="false" name="24_downloading_files_from_the_web" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning_thenewboston" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning_thenewboston/24_downloading_files_from_the_web.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.custom_web_crawler">
     <configuration default="false" name="web_crawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -385,6 +291,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="custom_web_crawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra Practice/custom_web_crawler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -450,19 +374,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.24_downloading_files_from_the_web" />
-      <item index="1" class="java.lang.String" itemvalue="Python.web_crawler" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ListsDictsAndTuples" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Lists" />
-      <item index="4" class="java.lang.String" itemvalue="Python.reading_writing_files" />
+      <item index="0" class="java.lang.String" itemvalue="Python.web_crawler" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ListsDictsAndTuples" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Lists" />
+      <item index="3" class="java.lang.String" itemvalue="Python.reading_writing_files" />
+      <item index="4" class="java.lang.String" itemvalue="Python.custom_web_crawler" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.reading_writing_files" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Lists" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ListsDictsAndTuples" />
-        <item index="3" class="java.lang.String" itemvalue="Python.web_crawler" />
-        <item index="4" class="java.lang.String" itemvalue="Python.24_downloading_files_from_the_web" />
+        <item index="0" class="java.lang.String" itemvalue="Python.custom_web_crawler" />
+        <item index="1" class="java.lang.String" itemvalue="Python.reading_writing_files" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Lists" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ListsDictsAndTuples" />
+        <item index="4" class="java.lang.String" itemvalue="Python.web_crawler" />
       </list>
     </recent_temporary>
   </component>
@@ -516,27 +440,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Challenges/2 Odd or Even.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Challenges/3 List Less Than Ten.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Challenges/4 Divisors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -748,20 +651,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/pyserial-3.3.tar/dist/pyserial-3.3/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1167">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_thenewboston/ModulesAtuna.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/pyserial-3.3.tar/dist/pyserial-3.3/setup.py" />
     <entry file="file://$PROJECT_DIR$/Learning_thenewboston/21 Modules.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -800,13 +690,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_thenewboston/web_crawler.py">
+    <entry file="file://$PROJECT_DIR$/Learning_thenewboston/ModulesAtuna.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_thenewboston/Hello World.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -826,10 +722,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Extra Practice/Tuples.py">
+    <entry file="file://$PROJECT_DIR$/Extra Practice/reading_writing_files.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="493">
+          <caret line="29" column="38" lean-forward="false" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extra Practice/myNewFile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -850,19 +754,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Extra Practice/myNewFile.txt">
+    <entry file="file://$PROJECT_DIR$/Extra Practice/Tuples.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Extra Practice/reading_writing_files.py">
+    <entry file="file://$PROJECT_DIR$/Learning_thenewboston/web_crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        <state relative-caret-position="153">
+          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extra Practice/MyNewText.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extra Practice/custom_web_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
