@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca051ab1-3b6c-4471-bd95-a36aeb427da0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Extra Resources/MyNewText.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Extra Resources/custom_web_crawler.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra Practice/MyNewText.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra Practice/custom_web_crawler.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Extra Resources/KeywordMatcherReadMe.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Extra Resources/get_all_hrefs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Extra Resources/testing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning_thenewboston/28_exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning_thenewboston/29_classes_and_objects.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning_thenewboston/30_init.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra Resources/MyNewText.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra Resources/custom_web_crawler.py" afterPath="$PROJECT_DIR$/Extra Resources/custom_web_crawler.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,14 +22,57 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="custom_web_crawler.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Extra Resources/custom_web_crawler.py">
+      <file leaf-file-name="get_all_hrefs.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Extra Resources/get_all_hrefs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="707">
-              <caret line="27" column="29" lean-forward="false" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+            <state relative-caret-position="510">
+              <caret line="30" column="60" lean-forward="false" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testing.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Extra Resources/testing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom_web_crawler.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Extra Resources/custom_web_crawler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="37" column="39" lean-forward="false" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#598#623#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web_crawler.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Learning_thenewboston/web_crawler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KeywordMatcherReadMe.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Extra Resources/KeywordMatcherReadMe.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,14 +139,24 @@
         <option value="$PROJECT_DIR$/Extra Practice/custom_web_cralwer.py" />
         <option value="$PROJECT_DIR$/Extra Practice/MyNewText.txt" />
         <option value="$PROJECT_DIR$/Extra Practice/custom_web_crawler.py" />
+        <option value="$PROJECT_DIR$/Extra Resources/custom_web_crawler.py" />
+        <option value="$PROJECT_DIR$/Learning_thenewboston/28_exceptions.py" />
+        <option value="$PROJECT_DIR$/Learning_thenewboston/29_classes_and_objects.py" />
+        <option value="$PROJECT_DIR$/Learning_thenewboston/30_init.py" />
+        <option value="$PROJECT_DIR$/Extra Resources/KeywordMatcher.py" />
+        <option value="$PROJECT_DIR$/Extra Resources/KeywordMatcherReadMe.txt" />
+        <option value="$PROJECT_DIR$/Extra Resources/keyword_matcher.py" />
+        <option value="$PROJECT_DIR$/Extra Resources/requests_tests.py" />
+        <option value="$PROJECT_DIR$/Extra Resources/testing.py" />
+        <option value="$PROJECT_DIR$/Extra Resources/get_all_hrefs.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-16" />
-    <option name="y" value="-16" />
-    <option name="width" value="3872" />
-    <option name="height" value="2092" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -116,8 +173,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -174,6 +229,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,8 +255,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.custom_web_crawler">
-    <configuration default="false" name="web_crawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.get_all_hrefs">
+    <configuration default="false" name="29_classes_and_objects" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -211,79 +268,79 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning_thenewboston/web_crawler.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning_thenewboston/29_classes_and_objects.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="ListsDictsAndTuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="30_init" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning_thenewboston" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPython" />
-      <option name="SCRIPT_NAME" value="C:\Users\Ethan\Documents\GitHub\LearnPython\Extra Practice\Dictionaries.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning_thenewboston/30_init.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="keyword_matcher" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra Resources" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra Practice/Lists.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Ethan\Documents\GitHub\LearnPython\Extra Resources\get_all_hrefs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="reading_writing_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="get_all_hrefs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra Resources" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra Practice/reading_writing_files.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra Resources/get_all_hrefs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="custom_web_crawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="testing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra Resources" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPython" />
-      <option name="SCRIPT_NAME" value="C:\Users\Ethan\Documents\GitHub\LearnPython\Extra Resources\custom_web_crawler.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra Resources/testing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -354,19 +411,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.web_crawler" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ListsDictsAndTuples" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Lists" />
-      <item index="3" class="java.lang.String" itemvalue="Python.reading_writing_files" />
-      <item index="4" class="java.lang.String" itemvalue="Python.custom_web_crawler" />
+      <item index="0" class="java.lang.String" itemvalue="Python.29_classes_and_objects" />
+      <item index="1" class="java.lang.String" itemvalue="Python.30_init" />
+      <item index="2" class="java.lang.String" itemvalue="Python.keyword_matcher" />
+      <item index="3" class="java.lang.String" itemvalue="Python.get_all_hrefs" />
+      <item index="4" class="java.lang.String" itemvalue="Python.testing" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.custom_web_crawler" />
-        <item index="1" class="java.lang.String" itemvalue="Python.reading_writing_files" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Lists" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ListsDictsAndTuples" />
-        <item index="4" class="java.lang.String" itemvalue="Python.web_crawler" />
+        <item index="0" class="java.lang.String" itemvalue="Python.get_all_hrefs" />
+        <item index="1" class="java.lang.String" itemvalue="Python.testing" />
+        <item index="2" class="java.lang.String" itemvalue="Python.keyword_matcher" />
+        <item index="3" class="java.lang.String" itemvalue="Python.30_init" />
+        <item index="4" class="java.lang.String" itemvalue="Python.29_classes_and_objects" />
       </list>
     </recent_temporary>
   </component>
@@ -387,26 +444,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19791667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286334" sideWeight="0.503125" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286334" sideWeight="0.496875" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769555" sideWeight="0.496875" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957717" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -420,55 +476,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Challenges/1 Character Input.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="71" lean-forward="false" selection-start-line="4" selection-start-column="71" selection-end-line="4" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Challenges/2 Odd or Even.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Challenges/3 List Less Than Ten.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Challenges/4 Divisors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Challenges/1 Character Input.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="4" column="71" lean-forward="false" selection-start-line="4" selection-start-column="71" selection-end-line="4" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Challenges/2 Odd or Even.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -696,28 +703,74 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Extra Practice/Tuples.py" />
-    <entry file="file://$PROJECT_DIR$/Learning_thenewboston/web_crawler.py">
+    <entry file="file://$PROJECT_DIR$/Extra Resources/MyNewText.txt" />
+    <entry file="file://$PROJECT_DIR$/Extra Resources/Lesson Computer Programming">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Extra Resources/MyNewText.txt">
+    <entry file="file://$PROJECT_DIR$/Learning_thenewboston/28_exceptions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-280">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_thenewboston/29_classes_and_objects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_thenewboston/30_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_thenewboston/web_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extra Resources/KeywordMatcherReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Extra Resources/custom_web_crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="707">
-          <caret line="27" column="29" lean-forward="false" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        <state relative-caret-position="374">
+          <caret line="37" column="39" lean-forward="false" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#598#623#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extra Resources/testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extra Resources/get_all_hrefs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="60" lean-forward="false" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>

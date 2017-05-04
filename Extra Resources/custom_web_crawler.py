@@ -17,29 +17,29 @@ def getVideoNames(url, titleName):
 def saveTextAndFormat(title, text):
     text = text.replace('\n\n', '\n')
     text = re.sub('[^a-zA-Z0-9_\s]', '-', text)
-    text = text.split('\n')
-    print(text)
-    data = []
-    for line in text:
-        line = line.split('\n')
-        print(line)
-        line = ' '.join(line)
-        line = line.split()
-        line = ' '.join(line)
-        data.append(line)
-    text = data
+    # text = text.split('\n')
+    # data = []
+    # time = 0
+    # for line in text:
+    #     line = line.split('\n')
+    #     print(line)
+    #     line = ' '.join(line)
+    #     print(line)
+    #     line = line.split()
+    #     print(line)
+    #     line = ' '.join(line)
+    #     print(line)
+    #     time += 1
+    #     data.append(line)
+    # text = '\n'.join(data)
     # print(text)
-    # text = '\n'.join(' '.join(line.split()) for line in text.split('\n'))
-
-
-    # with open("MyNewText.txt", "w+") as f:
-    #     f.write(title)
-    #     f.writelines(text)
-    #     f.seek(0)
-        # for line in f.readlines():
-        #     line = re.sub("[^a-zA-Z0-9_ \t\n\r\f\v]", '', line)
-        #     line = line.strip()
-        #     line = ' '.join(line.split())
+    text = '\n'.join(' '.join(line.split()) for line in text.split('\n'))
+    text.strip()
+    with open("Lesson {0}".format(title), "w+") as f:
+        f.write(title)
+        f.write(text)
 
 
 getVideoNames(compSciUrl, "Adobe")
+getVideoNames(compSciUrl, "Computer Programming")
+getVideoNames(compSciUrl, "Banana")
